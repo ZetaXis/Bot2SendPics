@@ -2,11 +2,17 @@
 A simple bot for Telegram to send multiple pictures across channels.
 
 Bot.properties description:
+
 Bot.Username = NAMEBOT (without @)
+
 Bot.Token = Token when you're create your bot
+
 Bot.LoggingConnections = true\false (info for register channels\local chat ID, adds some INFO
+
 Bot.DefaultPeriod = 60 (minutes, regular sending)
+
 Bot.AdminChatID = 123456789 (Chat ID of your local messages with that bot, via LoggingConnections you can see that ID)
+
 Bot.countThreads = 4 (Thread counts, for support more than 1 channels)
 
 How to use:
