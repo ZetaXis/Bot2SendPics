@@ -13,7 +13,7 @@ Bot.DefaultPeriod = 60 (minutes, regular sending)
 
 Bot.AdminChatID = 123456789 (Chat ID of your local messages with that bot, via LoggingConnections you can see that ID)
 
-Bot.countThreads = 4 (Thread counts, for support more than 1 channels)
+Bot.countThreads = 4 (Thread counts, for support more than 1 channel)
 
 How to use:
 
